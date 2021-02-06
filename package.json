@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/NotBlueBeast/tout-cli/issues"
   },
-  "homepage": "https://github.com/NotBlueBeast/tout-cli#readme"
+  "homepage": "https://github.com/NotBlueBeast/tout-cli#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
 }
