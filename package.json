@@ -1,0 +1,24 @@
+{
+  "name": "tout-cli",
+  "version": "1.0.0",
+  "description": "single cli to meet all your development needs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotBlueBeast/tout-cli.git"
+  },
+  "keywords": [
+    "tout",
+    "cli",
+    "tout-cli"
+  ],
+  "author": "Aman Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NotBlueBeast/tout-cli/issues"
+  },
+  "homepage": "https://github.com/NotBlueBeast/tout-cli#readme"
+}
